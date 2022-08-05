@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLogin</string>
+    <string name="usuario">Informe seu usuario</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="login">LOGIN</string>
+    <string name="cadastro">CADASTRAR</string>
+
+</resources>
