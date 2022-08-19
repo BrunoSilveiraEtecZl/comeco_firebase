@@ -40,17 +40,18 @@
 
     <EditText
         android:layout_width="180sp"
+        android:inputType="textPassword"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:id="@+id/senha"
         android:hint="@string/senha"/>
 
     <Button
-        android:id="@+id/login"
+        android:id="@+id/btnlogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="@string/login"
+        android:text="@string/btnlogin"
         android:layout_gravity="center_horizontal" />
 
     <TextView
@@ -65,7 +66,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="REGISTRE-SE"
-        android:id="@+id/registre"
+        android:id="@+id/btnregistrar"
         android:layout_marginTop="10dp"
         android:layout_gravity="center_horizontal" />
 
